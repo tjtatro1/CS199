@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "SpaceShooterV1.data.unityweb",
+"asmCodeUrl": "SpaceShooterV1.asm.code.unityweb",
+"asmMemoryUrl": "SpaceShooterV1.asm.memory.unityweb",
+"asmFrameworkUrl": "SpaceShooterV1.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
